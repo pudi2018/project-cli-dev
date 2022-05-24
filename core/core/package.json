@@ -1,0 +1,33 @@
+{
+  "name": "@project-cli-de/core",
+  "version": "1.0.2",
+  "description": "project-cli-dev core",
+  "author": "tongle3000 <44577832+tongle3000@users.noreply.github.com>",
+  "homepage": "",
+  "license": "ISC",
+  "bin": {
+    "project-cli-dev": "bin/index.js"
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "dependencies": {
+    "@project-cli-dev/utils": "file:../../utils/utils",
+    "import-local": "^3.1.0"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pudipuda/project-cli-dev.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "gitHead": "01fd6e9fb74b0663f7c410aafd6a84f3dc9c75ad"
+}
