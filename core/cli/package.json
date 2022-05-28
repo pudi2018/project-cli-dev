@@ -1,6 +1,6 @@
 {
   "name": "@project-cli-de/core",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "project-cli-dev core",
   "author": "tongle3000 <44577832+tongle3000@users.noreply.github.com>",
   "homepage": "",
@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "@project-cli-dev/get-npm-info": "file:../../utils/get-npm-info",
-    "@project-cli-dev/log": "file:../../utils/log",
+    "@project-cli-dev/log": "^1.0.5",
     "colors": "^1.4.0",
     "commander": "^9.2.0",
     "dotenv": "^16.0.1",
@@ -38,5 +38,5 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "dc0b0b104cba7cf07a9a39211848b2d4e9faed52"
+  "gitHead": "4ad679b85a71be7ceb52516d06904bb7ad126f52"
 }

@@ -1,6 +1,6 @@
 {
   "name": "get-npm-info",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "get-npm-info",
   "author": "tongle3000 <44577832+tongle3000@users.noreply.github.com>",
   "homepage": "https://github.com/pudipuda/project-cli-dev#readme",
@@ -27,5 +27,6 @@
     "axios": "^0.27.2",
     "semver": "^7.3.7",
     "url-join": "4.0.1"
-  }
+  },
+  "gitHead": "4ad679b85a71be7ceb52516d06904bb7ad126f52"
 }
