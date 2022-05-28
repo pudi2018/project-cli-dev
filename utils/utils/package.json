@@ -1,6 +1,6 @@
 {
   "name": "@project-cli-dev/utils",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "project-cli-dev utils",
   "author": "tongle3000 <44577832+tongle3000@users.noreply.github.com>",
   "homepage": "",
@@ -20,5 +20,5 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "01fd6e9fb74b0663f7c410aafd6a84f3dc9c75ad"
+  "gitHead": "dc0b0b104cba7cf07a9a39211848b2d4e9faed52"
 }
