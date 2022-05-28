@@ -1,5 +1,5 @@
 {
-  "name": "get-npm-info",
+  "name": "@project-cli-dev/get-npm-info",
   "version": "1.0.10",
   "description": "get-npm-info",
   "author": "tongle3000 <44577832+tongle3000@users.noreply.github.com>",
@@ -28,5 +28,5 @@
     "semver": "^7.3.7",
     "url-join": "4.0.1"
   },
-  "gitHead": "a5551b147ef36cd84ab2a1a10116112ee2395173"
+  "gitHead": "ac2d2deec66161213892b62278ebd8212f51dadf"
 }
