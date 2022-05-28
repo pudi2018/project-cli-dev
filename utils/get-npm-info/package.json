@@ -21,7 +21,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "bugs": {
-    "url": "https://github.com/pudipuda/project-cli-dev/issues"
+    "url": "git://github.com/pudipuda/project-cli-dev/issues"
   },
   "dependencies": {
     "axios": "^0.27.2",
